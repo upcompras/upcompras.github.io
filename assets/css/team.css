@@ -1,0 +1,38 @@
+#team #team-header{
+    padding-top: 0px;
+}
+
+#team .container h1 {
+    font-size: 4.5em;
+}
+
+#team .container p {
+    font-weight: 400;
+    font-size: 3em;
+}
+
+#team .container .img-quadrata {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+#team .container h3 {
+    font-weight: 800;
+    color: #3498DB;
+    font-size: 2em;
+}
+
+#team .container small {
+    text-align: center;
+    font-size: 1.5em;
+    color: gray;
+}
+
+#team .container .row{
+    padding-bottom: 0px;
+}
+
+#team {
+    margin-bottom: 35px;
+}
